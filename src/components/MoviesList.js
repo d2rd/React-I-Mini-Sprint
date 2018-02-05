@@ -1,5 +1,5 @@
 // Import React from react.
-
+import React from 'react';  //pre-loaded in package.json
 // Create a const arrow function called MoviesList.
 // Return an unordered list
 // Inside the unordered list, embed a javascript expression (curly brackets).
